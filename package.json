@@ -1,0 +1,11 @@
+{
+  "name": "iron",
+  "version": "1.0.0",
+  "description": "react tool",
+  "main": "index.js",
+  "author": "zhangzhenlin01@58ganji.com",
+  "license": "MIT",
+  "bin":{
+    "iron":""
+  }
+}
